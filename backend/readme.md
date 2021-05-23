@@ -1,2 +1,4 @@
 //
+set up
+//
 npm install
